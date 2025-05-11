@@ -41,7 +41,7 @@ The project is built in `.xlsm` format to support Macros and VBA functionality.
 
 ## 🖼️ Preview
 
-![Dashboard Preview](Dashboard(Project).png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 
 ---
